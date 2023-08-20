@@ -3,7 +3,8 @@
 * Started Sound Sensor Example.ino (exercise 20)
 * Ran the Serial Plotter
 * Altered potiometer to adjust digital detection threshold. This flashes the LED when it detects music playing
-* The sound sensor has a built in microphone, and no audio 
+* The sound sensor has a built in microphone, and no audio
+* Observed pin we want would be covered by the motor shield. There changed digital pin from combo PWM/Digital pin to a spare digital only (pin 22)
 
 2023-08-19
 * Circuit does not detect changes in audio 
