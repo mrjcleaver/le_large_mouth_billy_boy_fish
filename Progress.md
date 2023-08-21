@@ -1,3 +1,9 @@
+2023-08-21
+* Tried to get PC headphone output to drive old Billy speaker
+** This doesn't work - as
+** https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody shows the use of the same speaker direct from Arduino
+  * Use a resister   
+
 2023-08-20
 * Downloaded Mega 2560 examples kit from
 * Started Sound Sensor Example.ino (exercise 20)
