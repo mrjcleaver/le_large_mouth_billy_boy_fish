@@ -3,8 +3,12 @@
 ** This doesn't work - as
 ** https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody shows the use of the same speaker direct from Arduino
   * Use a resister   
+  * 
+2023-08-20 Integration
+* Combined the sound_sensor_example and mouth-tests-via-motor-shield into integration-audio-and-motor-tests
+* Next: improve the code to oscilate mouth less often, and get the speaker to work.
 
-2023-08-20
+2023-08-20 Sound Sensor test
 * Downloaded Mega 2560 examples kit from
 * Started Sound Sensor Example.ino (exercise 20)
 * Ran the Serial Plotter
