@@ -2,7 +2,7 @@
 * Tried to get PC headphone output to drive old Billy speaker
 ** This doesn't work - as
 ** https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody shows the use of the same speaker direct from Arduino
-  * Use a resister   
+  * Use a resister like https://startingelectronics.org/beginners/start-electronics-now/tut7-arduino-melody/  
   * 
 2023-08-20 Integration
 * Combined the sound_sensor_example and mouth-tests-via-motor-shield into integration-audio-and-motor-tests
